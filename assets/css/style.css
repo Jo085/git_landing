@@ -31,17 +31,17 @@ form {
   cursor: pointer;
   display: block;
   position: relative;
-  background-color: #676264;
+  background-color: #fff;
   padding: 20px 80px;
   margin: 0 auto;
   border-radius: 20px;
-  box-shadow: 0 6px #2E282A;
+  box-shadow: 0 6px #000;
 }
   
 .btn a {
-    color: white;
+  color:#000;
   font-family: 'Open Sans', sans-serif;
-  font-size: 1rem;
+  font-size: 1.5rem;
   font-weight: 300;
   text-transform: uppercase;
   text-decoration: none;
@@ -49,7 +49,7 @@ form {
 }
 
 .btn:hover {
-  box-shadow: 0 4px #2E282A;
+  box-shadow: 0 4px #000;
   top: 2px; 
 }
 
